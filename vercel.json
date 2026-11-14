@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/status", "destination": "/app.py" },
+    { "source": "/predict", "destination": "/app.py" },
+    { "source": "/api/status", "destination": "/app.py" },
+    { "source": "/api/predict", "destination": "/app.py" }
+  ]
+}

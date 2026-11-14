@@ -1,0 +1,3 @@
+# Dependencies for Vercel Serverless Deployment (< 250MB size limit)
+# Note: For full local training with TensorFlow, use: pip install -r requirements-local.txt
+Pillow>=10.0.0
